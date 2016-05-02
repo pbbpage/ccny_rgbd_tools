@@ -42,7 +42,7 @@
 #include "ccny_rgbd/FeatureDetectorConfig.h"
 #include "ccny_rgbd/GftDetectorConfig.h"
 #include "ccny_rgbd/StarDetectorConfig.h"
-#include "ccny_rgbd/SurfDetectorConfig.h"
+// #include "ccny_rgbd/SurfDetectorConfig.h"
 #include "ccny_rgbd/OrbDetectorConfig.h"
 
 namespace ccny_rgbd {
