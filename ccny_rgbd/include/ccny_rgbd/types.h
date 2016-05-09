@@ -109,8 +109,6 @@ typedef boost::shared_ptr<GftDetectorConfigServer> GftDetectorConfigServerPtr;
 typedef dynamic_reconfigure::Server<StarDetectorConfig> StarDetectorConfigServer;
 typedef boost::shared_ptr<StarDetectorConfigServer> StarDetectorConfigServerPtr; 
 
-typedef dynamic_reconfigure::Server<SurfDetectorConfig> SurfDetectorConfigServer;
-typedef boost::shared_ptr<SurfDetectorConfigServer> SurfDetectorConfigServerPtr; 
 
 typedef dynamic_reconfigure::Server<OrbDetectorConfig> OrbDetectorConfigServer;
 typedef boost::shared_ptr<OrbDetectorConfigServer> OrbDetectorConfigServerPtr; 
